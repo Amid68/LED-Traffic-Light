@@ -14,4 +14,4 @@ This project simulates a basic traffic light using an Arduino and LEDs. It’s a
 3. **Run:** Observe the LEDs cycle through red, yellow, and green, simulating a traffic light.
 
 ## Project Demo
-[Watch the Project Demo Video on YouTube](https://youtu.be/UNM5KqTr1hk)
+[![Project Demo Video](https://img.youtube.com/vi/UNM5KqTr1hk/0.jpg)](https://youtu.be/UNM5KqTr1hk)
