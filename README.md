@@ -15,3 +15,4 @@ This project simulates a basic traffic light using an Arduino and LEDs. It’s a
 
 ## Project Demo
 [![Project Demo Video](https://img.youtube.com/vi/UNM5KqTr1hk/0.jpg)](https://youtu.be/UNM5KqTr1hk)
+Click the image above to watch the project demo video on YouTube.
